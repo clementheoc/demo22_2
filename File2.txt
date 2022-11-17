@@ -1,1 +1,2 @@
 ini file 2
+baris ini di edit dari remote
