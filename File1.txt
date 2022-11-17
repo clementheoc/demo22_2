@@ -1,2 +1,2 @@
 ini file 1
-ini baris di edit dari remote
+ini baris di edit dari remote,ditambahkan dengan remote repo
